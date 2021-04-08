@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">luai</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="add">Add</string>
+    <string name="long_text_test">lkasdjflaksdjfaljksdfklasdfjlaslfj lsakdfj laskfj kaslfj lksafj lksad jflaksdfj lkasd fjlaksfj alskf jaslkdfj aslkdfjksdfjlk</string>
+    <string-array name="numbesr">
+
+        <item>"luai"</item>
+        <item>lylas</item>
+        <item>masa</item>
+
+    </string-array>
+
+
+</resources>
